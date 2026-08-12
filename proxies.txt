@@ -1,2 +1,1 @@
-protocol://ip:port:username:password
-protocol://ip:port
+http://b67191eb64105e31:VgHRJ7DUsmLrx45Z@res.geonix.com:10000
